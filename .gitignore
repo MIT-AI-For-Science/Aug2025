@@ -1,0 +1,5 @@
+notes.md
+.specstory/
+.DS_Store
+.cursorindexingignore
+.sass-cache/

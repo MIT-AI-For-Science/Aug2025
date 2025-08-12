@@ -1,0 +1,1 @@
+AI for Scientific Discovery - Aug 2025
