@@ -70,7 +70,7 @@ body {
   background: #fff;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #404040;
-  line-height: 1.7;
+  line-height: 1.5;
   font-weight: 400;
   font-size: 18px;
   height: 100%;
@@ -87,8 +87,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #222;
   font-weight: bold;
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.5;
+  margin: 0.5em 0 10px;
   padding: 0;
   text-align: center;
 }
@@ -130,7 +130,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 table {
@@ -302,11 +302,11 @@ p > img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 15px 0;
   border-bottom: 1px solid #eee;
 }
 @media screen and (max-width: 640px) {
@@ -443,19 +443,19 @@ nav a {
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  padding-bottom: 60px;
 }
 
 .wrapper-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
+  height: 60px;
   background-color: #eee;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 15px 0;
   text-align: center;
 }
 
